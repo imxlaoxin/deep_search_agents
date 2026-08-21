@@ -1,0 +1,8 @@
+.venv
+large_tool_results/
+output/
+__pycache__
+ui/node_modules
+ui/.vscode
+updated
+.env
